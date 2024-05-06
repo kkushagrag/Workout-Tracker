@@ -2,7 +2,7 @@
 
 **Description:**
 
-GYM TRACKER is a comprehensive fitness tracking application designed for Android devices. It empowers users to monitor their workouts, track progress, and visualize changes in body weight and body fat percentage over time. The app caters to individuals of all fitness levels, from beginners starting their journey to experienced athletes seeking to optimize their routines.
+WORKOUT TRACKER is a comprehensive fitness tracking application designed for Android devices. It empowers users to monitor their workouts, track progress, and visualize changes in body weight and body fat percentage over time. The app caters to individuals of all fitness levels, from beginners starting their journey to experienced athletes seeking to optimize their routines.
 
 **Key Features:**
 
@@ -57,37 +57,13 @@ The project may include dependencies managed using Gradle. Refer to the `build.g
 1. Build and run the app on an Android device or emulator.
 2. Explore the app's features for logging workouts, tracking progress, and visualizing data.
 
-**Monetization Strategy (Future Considerations):**
-
-- Freemium model (basic features free, premium features require subscription)
-- In-app purchases for additional workout plans, routines, or premium content
-- Non-intrusive advertising
-- Partnerships with fitness brands, gyms, or equipment manufacturers (sponsored content, deals)
-
 **Learning from the Project:**
 
 - Importance of understanding user needs and preferences through research and feedback.
 - Value of data visualization and progress tracking in fitness.
 - Proficiency gained in Java programming, XML layouts, and Android Studio.
 
-**Future Functionalities:**
-
-- Integration with wearable devices
-- Social media integration
-- Personalized workout plans and meal recommendations
-- Gamification elements
-- Virtual personal training or coaching features
-
-**Contribution:**
-
-We welcome contributions to this project! Please follow these guidelines:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Implement your changes and write clear code comments.
-- Submit a pull request for review and merging.
-
-<! -- **License:**
+<! -- **License:** -->
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). -->
 
