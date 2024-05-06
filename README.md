@@ -23,7 +23,7 @@ WORKOUT TRACKER is a comprehensive fitness tracking application designed for And
 
 **Motivation:**
 
-The primary motivation behind GYM TRACKER was to provide a convenient and centralized solution for fitness enthusiasts to:
+The primary motivation behind WORKOUT TRACKER was to provide a convenient and centralized solution for fitness enthusiasts to:
 
 - Track their progress and stay motivated.
 - Log workouts for easy reference and analysis.
@@ -32,7 +32,7 @@ The primary motivation behind GYM TRACKER was to provide a convenient and centra
 
 **Applicability:**
 
-GYM TRACKER caters to a wide range of users:
+WORKOUT TRACKER caters to a wide range of users:
 
 - Beginners: Establish healthy habits, monitor progress, and stay motivated.
 - Experienced Athletes: Track workouts, analyze progress, and adjust routines for continuous improvement.
