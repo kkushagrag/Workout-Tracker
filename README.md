@@ -63,8 +63,6 @@ The project may include dependencies managed using Gradle. Refer to the `build.g
 - Value of data visualization and progress tracking in fitness.
 - Proficiency gained in Java programming, XML layouts, and Android Studio.
 
-<! -- **License:** -->
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). -->
 
 
